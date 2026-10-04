@@ -1,0 +1,6 @@
+{
+  "body": "{\"fileName\":\"photo.png\",\"contentType\":\"image/png\",\"fileSize\":120000}",
+  "requestContext": {
+    "authorizer": { "jwt": { "claims": { "sub": "11111111-2222-3333-4444-555555555555" } } }
+  }
+}
